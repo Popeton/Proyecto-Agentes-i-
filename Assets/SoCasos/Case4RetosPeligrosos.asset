@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 388cb307cea99a84eaaf156580b77b28, type: 3}
+  m_Name: Case4RetosPeligrosos
+  m_EditorClassIdentifier: 
+  caseID: Case_04_RetosPeligrosos
+  caseTitle: Retos Peligrosos
+  caseIntro: 'Revisa este caso y determina si Ana debe ejecutar el reto o no. '
+  infoTexts:
+  - 'Ana le gusta grabar video y subirlos a sus redes sociales. '
+  - 'Los padres de Ana la aman mucho y se preocupan por ella. '
+  - 'Las amigxs de Ana la valoran por lo que es y no por lo que comparte. '
+  clues:
+  - clueText: Ana cree que el ventanal de su cuarto es un muy buen lugar para grabar
+      su reto.
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: 'Hay muchos comentarios sobre el video. '
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Ana hab\xEDa tenido un peque\xF1o accidente al caer de una silla en
+      un reto anterior. "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Ana busca sumar m\xE1s seguidores haciendo retos cada vez m\xE1s exigentes. "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Este confite con sabor a podrido lo prob\xF3 Ana en el \xFAltimo reto
+      que mont\xF3 a su canal. "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  question: "Selecciona qu\xE9 deber\xEDa hacer Ana: "
+  optionA: "Ana debe realizar el reto. Los \"me gusta\" y comentarios deben influir
+    en tu decisi\xF3n."
+  optionB: "Ana, no te dejes presionar. La seguridad es primordial y la opini\xF3n
+    m\xE1s importante es la tuya."
+  feedbackA: "No vale la pena arriesgar tu vida por likes. Int\xE9ntalo de nuevo."
+  feedbackB: "\xA1Felicitaciones! Lograste identificar cu\xE1ndo un reto viral puede
+    ser peligroso."
+  caseDescription: 
+  sceneName: Case4_RetosPeligrosos
+  previewImage: {fileID: 21300000, guid: e1e9d6cda22603b428427bfbf70b3be8, type: 3}
+  completedPreview: {fileID: 21300000, guid: 8dabcfa344beaa9408542e450900c882, type: 3}

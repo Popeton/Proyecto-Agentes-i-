@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d78edf75b2d0efe408898e4fdfcc4877
+  - enabled: 1
+    path: Assets/Scenes/Case1_Grooming.unity
+    guid: 2dc3d7c3199c80e45a3d12b8ad43bf0b
+  - enabled: 1
+    path: Assets/Scenes/Case2_CyberBullying.unity
+    guid: 5020bc5abbc43e444bec40aa893ffa5e
+  - enabled: 1
+    path: Assets/Scenes/Case3_Nomofobia.unity
+    guid: 579c7deecf63a364b87fc8f91590d2b1
+  - enabled: 1
+    path: Assets/Scenes/Case4_RetosPeligrosos.unity
+    guid: d5d557c0e8f695947b700957a5aba1d9
+  - enabled: 1
+    path: Assets/Scenes/FinalBagdet.unity
+    guid: 8072bca7be51966469adb5c4375f341a
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 742c0556e67d1c84ab6eba8f114ffba8, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 8035d6980939eab47b98c0c141c23563, type: 3}

@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 388cb307cea99a84eaaf156580b77b28, type: 3}
+  m_Name: Case3Nomofobia
+  m_EditorClassIdentifier: 
+  caseID: Caso_03_Nomofobia
+  caseTitle: Nomofobia
+  caseIntro: "Dale un concejo a Leo a partir de la situaci\xF3n por la que est\xE1
+    pasando.  "
+  infoTexts:
+  - "Leo es un ni\xF1o curioso. "
+  - 'A Leo le encanta jugar con sus amigos. '
+  - "A Leo se le olvida a veces organizar su habitaci\xF3n. "
+  clues:
+  - clueText: "Leo est\xE1 ansioso porque su tel\xE9fono se est\xE1 quedando sin
+      bater\xEDa y no puede seguir chateando con sus amigos. "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Leo quer\xEDa salir a jugar pero se distrajo con su tel\xE9fono   "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Leo estaba leyendo este libro que le regal\xF3 su abuela pero no lo
+      termin\xF3 porque le parece m\xE1s emocionante jugar en su celular. "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Ayer Leo se qued\xF3 hasta muy tarde revisando su mensajes y hoy est\xE1
+      muy cansado."
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Leo \xFAltimamente le cuesta concentrarse y se siente agotado, sospecha
+      que es por la cantidad de tiempo que pasa viendo su celular."
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  question: "Selecciona qu\xE9 concejo le dar\xEDas a Leo:  "
+  optionA: Leo, es muy importante mantenerte siempre conectado para que no pierdas
+    el contacto con tus amigos.
+  optionB: "Leo, parece que estas sufriendo de adicci\xF3n al celular (nomofobia).
+    Trata de tomar un descanso y ver\xE1s que hay mucha diversi\xF3n fuera de la
+    pantalla. "
+  feedbackA: "Cuidado, estar siempre conectado puede afectar tu salud y tus amistades
+    reales. Int\xE9ntalo de nuevo."
+  feedbackB: "\xA1Felicitaciones! Eres experto en detectar casos de Nomofobia."
+  caseDescription: 
+  sceneName: Case3_Nomofobia
+  previewImage: {fileID: 21300000, guid: 90c44b25b476a3c46a58d4ec6b46d25d, type: 3}
+  completedPreview: {fileID: 21300000, guid: 4bb6e8926344759419c9657687e0923b, type: 3}

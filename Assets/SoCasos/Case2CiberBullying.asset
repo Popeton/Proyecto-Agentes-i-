@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 388cb307cea99a84eaaf156580b77b28, type: 3}
+  m_Name: Case2CiberBullying
+  m_EditorClassIdentifier: 
+  caseID: Caso_02_CyberBullying
+  caseTitle: CyberBullying
+  caseIntro: "En esta situaci\xF3n de Ciberacoso, reconoce qui\xE9n es la v\xEDctima
+    y qui\xE9n es el acosador.  "
+  infoTexts:
+  - "Rosa ama Haloween. Cada a\xF1o sale a pedir dulces.  "
+  - "Rosa prefiere dibujar que socializar con sus compa\xF1eros.  "
+  - 'Xuxi siempre busca encajar en su grupo de amigos. '
+  clues:
+  - clueText: Rosa y Xuxi son amigas, pero algunas veces Xuxi siente envidia y no
+      trata bien a Rosa
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Querido diario, hoy me siento muy triste porque he le\xEDdo varios
+      comantarios feos burl\xE1ndosen de mi disfraz en Haloween. \r\nRosa "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "A Xuxi le va muy bien en la clase de inform\xE1tica y tiene muy buen
+      dominio de herramientas digitales."
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Rosa: Tu fuiste la que compartiste mi foto e hiciste esos comentarios
+      sobre mi.  \r\nXuxi: No lo tomes mal. Solo era algo divertido. \r\nRosa: Tu
+      sabes que no me gusta. No es la primera vez que lo haces"
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  - clueText: "Rosa se est\xE1 haciendo la enferma para no ir al colegio, pues le
+      da miedo que se r\xEDan de ella por los comentarios que han compartido en internet. "
+    hasDecision: 0
+    decisionQuestion: 
+    decisionA: 
+    decisionB: 
+    feedbackA: 
+    feedbackB: 
+  question: "Selecciona qui\xE9n es la v\xEDctima y qui\xE9n es el acosador. \r\n\r"
+  optionA: 
+  optionB: 
+  feedbackA: "\xA1Felicitaciones! Eres experto en detectar casos de Ciberacoso."
+  feedbackB: Revisa bien las pistas, recuerda que Rosa es quien se siente triste
+  caseDescription: "Descubre qui\xE9n comparti\xF3 la foto de Rosa sin permiso y
+    aprende a identificar qui\xE9n est\xE1 siendo v\xEDctima y qui\xE9n est\xE1 haciendo
+    ciberacoso.\r\n"
+  sceneName: Case2_CyberBullying
+  previewImage: {fileID: 21300000, guid: a408d5ee3946c8e47a609d603ad34c60, type: 3}
+  completedPreview: {fileID: 21300000, guid: 18526bcc8af9dd24ababc8d1c21c4d0a, type: 3}
